@@ -1,0 +1,4 @@
+.pokemons-list {
+    display: flex;
+    flex-wrap: wrap;
+}
